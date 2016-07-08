@@ -2,7 +2,7 @@
     "include": "centos-atomic-host.json",
     "ref": "centos-atomic-host/7/x86_64/openstack",
     "automatic_version_prefix": "2016.0",
-    "repos": ["openstack-mitaka", "centos-ceph-hammer", "epel"],
+    "repos": ["openstack-liberty", "centos-ceph-hammer", "epel"],
     "packages": [
         "ansible",
         "automake",
