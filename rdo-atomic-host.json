@@ -27,7 +27,6 @@
         "libxslt-devel",
         "mariadb",
         "mariadb-devel",
-        "mariadb-galera-server",
         "memcached",
         "mongodb",
         "mongodb-server",
